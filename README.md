@@ -13,6 +13,8 @@
 
 ## 使用説明
 
+字體靜態字重版本安裝後的名稱為 `Chiron GoRound TC`，可變字體版本為 `Chiron GoRound TC VF`。至於網頁字型指定的 `font-family` 名稱為 `Chiron GoRound TC WS`。
+
 [昭源字體](https://chiron-fonts.github.io/)網站中對於昭源黑體的説明大致適用於本字體，惟由於本字體尚在預覽階段，請留意以下事項：
 
 1. 目前字體在字重量和字重名稱的配置方面與昭源黑體相同，未來或會更改。
