@@ -1,0 +1,21 @@
+name: Node.js Package for webfont
+
+on:
+    release:
+        types: [ created ]
+    push:
+        tags:
+            - 'npm/*'
+    workflow_dispatch:
+
+jobs:
+    publish-woff2-otf-npm:
+        uses: ./.github/workflows/publish-base.yml
+        with:
+            directory: WOFF2_OTF
+        secrets: inherit
+    publish-woff2-ttf_npm:
+        uses: ./.github/workflows/publish-base.yml
+        with:
+            directory: WOFF2_TTF
+        secrets: inherit
