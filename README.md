@@ -1,6 +1,8 @@
 昭源環方 Chiron GoRound TC (預覽版)
 =======================
 
+![title](./doc/title.png)
+
 ## 簡介
 
 昭源環方 (Chiron GoRound TC) 是一款以昭源黑體為基礎製作的開源、免費仿圓設計字體。
