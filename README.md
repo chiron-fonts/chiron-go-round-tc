@@ -1,4 +1,4 @@
-昭源環方 Chiron GoRound TC (預覽版)
+昭源環方 Chiron GoRound TC
 =======================
 
 ![title](./doc/title.png)
