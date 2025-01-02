@@ -7,21 +7,21 @@
 
 昭源環方 (Chiron GoRound TC) 是一款以昭源黑體為基礎製作的開源、免費仿圓設計字體。
 
-[昭源黑體](https://github.com/chiron-fonts/chiron-hei-hk/)
-是由[思源黑體香港版 (Source Han Sans - Traditional Chinese, Hong Kong)](https://github.com/adobe-fonts/source-han-sans)
+[昭源黑體](https://github.com/chiron-fonts/chiron-hei-hk/)是由[思源黑體香港版 (Source Han Sans - Traditional Chinese, Hong Kong)](https://github.com/adobe-fonts/source-han-sans)
 修改而成，提供一套**平衡標準字形和印刷體慣用筆形**的**現代筆形風格**開源黑體字型產品。昭源環方則是利用電腦程式，將昭源黑體筆畫圓角化，創造出一套相同筆形風格的仿圓體字型。
 
-本字體名為「昭源環方」，意指將方體（黑體又名方體）進行環狀化處理。
+本字體名為「昭源環方」，意指將方體（黑體又名方體）字進行圓形化處理。
 
 ## 動機及特色
 
-目前在開源字體中有好幾款自思源黑體修改而來的圓體字型，不過都是提供傳統印刷體（舊字形）的字樣，又或是由思源字體地區版本改造。昭源環方則是以昭源黑體為基礎，屬於採用結構，同時平衡地區標準字形和印刷體慣用字形，以滿足喜歡這一風格字形的設計師和用戶。
+現時在開源字體世界中有好幾款自思源黑體修改而來的圓體字型，不過都是提供傳統印刷體（舊字形）的字樣，又或是由思源字體地區版本改造。昭源環方則是以昭源黑體為基礎，採用現代筆形風格，考慮字體骨架，平衡地區標準字形和印刷體慣用字形，以滿足喜歡這一風格字形的設計師和用戶。
 
 昭源環方的特色如下：
+
 1. 經調整的現代筆形風格，相對親切、美觀。
 2. 西文字體嵌入 [Nunito](https://fonts.google.com/specimen/Nunito) 字體，非單純機械圓角化。
 3. 提供 10 種字重，從 ExtraLight 到 Heavy，並有可變字重版本。
-4. 除了桌面版本之外，還提供已作 Unicode-range subsetting 處理的 WOFF2 格式網頁字型，方便在網頁使用。
+4. 除了桌面版本之外，更提供已作 Unicode-range subsetting 處理的 WOFF2 格式網頁字型，方便在網頁使用。
 5. 採用 SIL Open Font License 1.1 授權，開源、免費。
 
 ## 下載
@@ -64,15 +64,17 @@
 
 ## 使用須知
 
-- 由於圓角化是使用電腦程式自動處理，未必每個字形的轉換結果都盡如人意，敬請諒解。
+- 圓角化是使用電腦程式自動處理，未必每個字形的轉換結果都盡如人意，敬請諒解。
 - 字體圓角化主要針對繁體中文字形，其他如假名、諺文、英文只作基本圓角處理，也不支援簡化字。
-
-另由於本字體尚在預覽階段，請留意以下事項：
-- 正式版前圓角化參數可能會再作調整。
 
 ## 網站
 
 有關昭源字體的其他資料可參閲網站：[https://chiron-fonts.github.io/](https://chiron-fonts.github.io/)
+
+## 其他昭源字體
+
+- [昭源黑體](https://github.com/chiron-fonts/chiron-hei-hk)
+- [昭源宋體](https://github.com/chiron-fonts/chiron-sung-hk)
 
 ## 授權
 

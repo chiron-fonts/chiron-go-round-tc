@@ -1,4 +1,8 @@
-Copyright 2024 Tamcy (https://github.com/chiron-fonts/chiron-go-round-tc).
+Copyright 2024-2025 Tamcy (https://github.com/chiron-fonts/chiron-go-round-tc).
+
+Copyright 2014-2021 Adobe (http://www.adobe.com/).
+
+Copyright 2016 The Nunito Sans Project Authors (https://github.com/Fonthausen/NunitoSans).
 
 This Font Software is licensed under the SIL Open Font License,
 Version 1.1.
