@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="3">
+    <axes>
+        <axis default="200.0" maximum="900.0" minimum="200.0" name="weight" tag="wght">
+            <map input="200" output="0"/>   <!-- ExtraLight -->
+            <map input="300" output="160"/> <!-- Light -->
+            <map input="350" output="320"/> <!-- Normal -->
+            <map input="400" output="390"/> <!-- Regular -->
+            <map input="450" output="475"/> <!-- ** Book -->
+            <map input="500" output="560"/> <!-- Medium -->
+            <map input="600" output="670"/> <!-- ** SemiBold -->
+            <map input="700" output="780"/> <!-- Bold -->
+            <map input="800" output="890"/> <!-- ** ExtraBold -->
+            <map input="900" output="1000"/><!-- Heavy -->
+        </axis>
+    </axes>
+    <sources>
+        <source filename="ChironGoRoundTCVF-weight0-Master.otf" name="master_0">
+            <lib copy="1"/>
+            <groups copy="1"/>
+            <info copy="1"/>
+            <location>
+                <dimension name="weight" xvalue="0"/>
+            </location>
+        </source>
+        <source filename="ChironGoRoundTCVF-weight390-Master.otf" name="master_1">
+            <location>
+                <dimension name="weight" xvalue="390"/>
+            </location>
+        </source>
+        <source filename="ChironGoRoundTCVF-weight1000-Master.otf" name="master_3">
+            <location>
+                <dimension name="weight" xvalue="1000"/>
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="ChironGoRoundTC" postscriptfontname="ChironGoRoundTCVF-ExtraLight" stylename="ExtraLight">
+            <location>
+                <dimension name="weight" xvalue="0"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironGoRoundTC" postscriptfontname="ChironGoRoundTCVF-Light" stylename="Light">
+            <location>
+                <dimension name="weight" xvalue="160"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironGoRoundTC" postscriptfontname="ChironGoRoundTCVF-Normal" stylename="Normal">
+            <location>
+                <dimension name="weight" xvalue="320"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironGoRoundTC" postscriptfontname="ChironGoRoundTCVF-Regular" stylename="Regular">
+            <location>
+                <dimension name="weight" xvalue="390"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironGoRoundTC" postscriptfontname="ChironGoRoundTCVF-Book" stylename="Book">
+            <location>
+                <dimension name="weight" xvalue="475"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironGoRoundTC" postscriptfontname="ChironGoRoundTCVF-Medium" stylename="Medium">
+            <location>
+                <dimension name="weight" xvalue="560"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironGoRoundTC" postscriptfontname="ChironGoRoundTCVF-SemiBold" stylename="SemiBold">
+            <location>
+                <dimension name="weight" xvalue="670"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironGoRoundTC" postscriptfontname="ChironGoRoundTCVF-Bold" stylename="Bold">
+            <location>
+                <dimension name="weight" xvalue="780"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironGoRoundTC" postscriptfontname="ChironGoRoundTCVF-ExtraBold" stylename="ExtraBold">
+            <location>
+                <dimension name="weight" xvalue="890"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironGoRoundTC" postscriptfontname="ChironGoRoundTCVF-Heavy" stylename="Heavy">
+            <location>
+                <dimension name="weight" xvalue="1000"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+    </instances>
+</designspace>

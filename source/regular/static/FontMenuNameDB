@@ -1,0 +1,98 @@
+# Normal, No Padding 
+
+# ExtraLight
+[ChironGoRoundTC-ExtraLight]
+	f=Chiron GoRound TC
+	s=ExtraLight
+	l=Chiron GoRound TC EL
+
+# Light
+[ChironGoRoundTC-Light]
+	f=Chiron GoRound TC
+	s=Light
+	l=Chiron GoRound TC L
+
+# Normal
+[ChironGoRoundTC-Normal]
+	f=Chiron GoRound TC
+	s=Normal
+	l=Chiron GoRound TC N
+
+# Regular
+[ChironGoRoundTC-Regular]
+	f=Chiron GoRound TC
+	s=Regular
+
+[ChironGoRoundTC-Book]
+	f=Chiron GoRound TC
+	s=Book
+	l=Chiron GoRound TC BK
+
+# Medium
+[ChironGoRoundTC-Medium]
+	f=Chiron GoRound TC
+	s=Medium
+	l=Chiron GoRound TC M
+
+# SemiBold
+[ChironGoRoundTC-SemiBold]
+	f=Chiron GoRound TC
+	s=SemiBold
+	l=Chiron GoRound TC SB
+
+# Bold
+[ChironGoRoundTC-Bold]
+	f=Chiron GoRound TC
+	s=Bold
+
+[ChironGoRoundTC-ExtraBold]
+	f=Chiron GoRound TC
+	s=ExtraBold
+	l=Chiron GoRound TC EB
+
+# Heavy
+[ChironGoRoundTC-Heavy]
+	f=Chiron GoRound TC
+	s=Heavy
+	l=Chiron GoRound TC H
+
+# Italic, No Padding
+
+#[ChironGoRoundTC-ExtraLightIt]
+#	f=Chiron GoRound TC
+#	s=ExtraLight Italic
+#	l=Chiron GoRound TC EL
+#
+#[ChironGoRoundTC-LightIt]
+#	f=Chiron GoRound TC
+#	s=Light Italic
+#	l=Chiron GoRound TC L
+#
+#[ChironGoRoundTC-NormalIt]
+#	f=Chiron GoRound TC
+#	s=Normal Italic
+#	l=Chiron GoRound TC N
+#
+#[ChironGoRoundTC-Italic]
+#	f=Chiron GoRound TC
+#	s=Italic
+#
+#[ChironGoRoundTC-MediumIt]
+#	f=Chiron GoRound TC
+#	s=Medium Italic
+#	l=Chiron GoRound TC M
+#
+#[ChironGoRoundTC-SemiBoldIt]
+#	f=Chiron GoRound TC
+#	s=SemiBold Italic
+#	l=Chiron GoRound TC SB
+#
+#[ChironGoRoundTC-BoldIt]
+#	f=Chiron GoRound TC
+#	s=Bold Italic
+#
+#[ChironGoRoundTC-HeavyIt]
+#	f=Chiron GoRound TC
+#	s=Heavy Italic
+#	l=Chiron GoRound TC H
+#
