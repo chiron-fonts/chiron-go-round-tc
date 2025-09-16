@@ -34,10 +34,10 @@
 
 昭源環方提供以下字型格式：
 
-1. OTF (OpenType) 靜態字重版本（`OTF/` 目錄）
-2. TTF (TrueType) 靜態字重版本（`TTF/` 目錄）
-3. OTF 可變字體版本（`VAR/` 目錄，`.otf` 副檔名）
-4. TTF 可變字體版本（`VAR/` 目錄，`.ttf` 副檔名）
+1. OTF (OpenType) 靜態字重版本（`STATIC_OTF/` 目錄）
+2. TTF (TrueType) 靜態字重版本（`STATIC_TTF/` 目錄）
+3. OTF 可變字體版本（`VAR_OTF/` 目錄，`.otf` 副檔名）
+4. TTF 可變字體版本（`VAR_TTF/` 目錄，`.ttf` 副檔名）
 5. WOFF2 網頁字型（`WOFF2_OTF/` 和 `WOFF2_TTF/` 目錄）
 
 使用者可以根據需要安裝相應的字型檔案。靜態字重版本安裝後的名稱為 `Chiron GoRound TC`，可變字體則為 `Chiron GoRound TC VF`。
