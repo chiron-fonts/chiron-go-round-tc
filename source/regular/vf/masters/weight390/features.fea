@@ -37,7 +37,7 @@ languagesystem hani ZHT;
 languagesystem hani ZHH;
 
 table head {
-  FontRevision 1.005;
+  FontRevision 1.006;
 } head;
 
 table hhea {
