@@ -158784,7 +158784,7 @@
         "codepoint": "9BBF"
     },
     {
-        "cid": 45706,
+        "cid": 45707,
         "glyphName": "uni9BC0",
         "codepoint": "9BC0"
     },
@@ -223504,7 +223504,8 @@
     },
     {
         "cid": 59439,
-        "glyphName": "u1F22B_JP"
+        "glyphName": "u1F22B",
+        "codepoint": "1F22B"
     },
     {
         "cid": 59440,
@@ -223512,8 +223513,7 @@
     },
     {
         "cid": 59441,
-        "glyphName": "u1F22B",
-        "codepoint": "1F22B"
+        "glyphName": "u1F22B_TW"
     },
     {
         "cid": 59442,
