@@ -1,4 +1,4 @@
-Copyright 2024-2025 Tamcy (https://github.com/chiron-fonts/chiron-go-round-tc).
+Copyright 2024-2026 Tamcy (https://github.com/chiron-fonts/chiron-go-round-tc).
 
 Copyright 2014-2021 Adobe (http://www.adobe.com/).
 
