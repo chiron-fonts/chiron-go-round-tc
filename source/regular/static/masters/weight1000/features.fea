@@ -55,7 +55,7 @@ languagesystem cyrl CHU;
 ## > Remote Merge End: Glyph Classes <
 
 table head {
-  FontRevision 1.010;
+  FontRevision 1.011;
 } head;
 
 table hhea {
