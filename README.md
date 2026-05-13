@@ -73,7 +73,7 @@
 
 有關昭源字體的其他資料可參閲網站：[https://chiron-fonts.github.io/](https://chiron-fonts.github.io/)
 
-## 其他昭源字體
+## 昭源系列其他字體
 
 - [昭源黑體](https://github.com/chiron-fonts/chiron-hei-hk)
 - [昭源宋體](https://github.com/chiron-fonts/chiron-sung-hk)
